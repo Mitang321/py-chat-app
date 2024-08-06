@@ -1,5 +1,3 @@
-# Stage 10: GUI Integration
-
 import os
 import sqlite3
 from datetime import datetime
